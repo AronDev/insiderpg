@@ -1,0 +1,30 @@
+# Compiled sources
+*.amx
+
+# Compressed sources
+*.zip
+*.rar
+
+# Other sources
+gamemodes/core/sql/credentials.pwn
+
+# Executables
+announce
+announce.exe
+samp03svr
+samp-npc
+samp-npc.exe
+samp-server.exe
+
+# Editor specific files
+gamemodes/vscode/
+.idea/
+
+# DLLs
+*.dll
+
+# Text files / logs
+mysql_log.txt
+server_log.txt
+crashinfo.txt
+logs/
