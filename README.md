@@ -2,7 +2,7 @@
 
 | Latest release | Last commit | Total downloads |
 | :---: | :---: | :---: |
-| [<img src="https://img.shields.io/github/v/release/arondev/insiderpg?include_prereleases&style=flat-square">](https://github.com/AronDev/insiderpg/releases) | [<img src="https://img.shields.io/github/last-commit/master/AronDev/insiderpg.svg?style=flat-square">](https://github.com/arondev/insiderpg/commits/master) | [<img src="https://img.shields.io/github/downloads/arondev/insiderpg/total?style=flat-square">](https://github.com/arondev/insiderpg/release)
+| [<img src="https://img.shields.io/github/v/release/AronDev/insiderpg?include_prereleases&style=flat-square">](https://github.com/AronDev/insiderpg/releases) | [<img src="https://img.shields.io/github/last-commit/master/AronDev/insiderpg.svg?style=flat-square">](https://github.com/arondev/insiderpg/commits/master) | [<img src="https://img.shields.io/github/downloads/AronDev/insiderpg/total?style=flat-square">](https://github.com/arondev/insiderpg/release)
 
 Introduction
 ---
